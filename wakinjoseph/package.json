@@ -1,6 +1,6 @@
 {
   "name": "wakinjoseph",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -29,7 +29,7 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Wakinjoseph/tea-testnet.git"
+    "url": "https://github.com/Wakinjoseph/tea-testnet"
   },
   "author": "",
   "license": "ISC",
